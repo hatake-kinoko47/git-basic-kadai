@@ -1,0 +1,21 @@
+　　1  pwd
+    2  ls
+    3  cd OneDrive
+    4  ls
+    5  cd デスクトップ
+    6  ls
+    7  mkdir git_challenge
+    8  ls
+    9  cd git_challenge
+   10  ls
+   11  git init
+   12  ls
+   13  ls -al
+   14  echo "Hello, world!" >> hello_world.txt
+   15  ls
+   16  git add hello_world.txt
+   17  git commit -m "add hello_world.txt"
+   18  git add hello_world.txt
+   19  git commit -m "updata hello_world.txt"
+   20  git log
+   21  git log --oneline
